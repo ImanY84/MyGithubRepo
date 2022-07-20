@@ -1,5 +1,5 @@
 console.log("Welcome from Git");
-//Test
+
 
 let num1 = 23;
 let num2 = 24;
